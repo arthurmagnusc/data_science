@@ -20,4 +20,4 @@ As a experienced Tax Lawyer, accountant and Data Scientist, I combine analytical
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - San Francisco/CA**
+* **Análise dos Dados do Airbnb - San Francisco/CA** https://bityli.com/5TJNK
